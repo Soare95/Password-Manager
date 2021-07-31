@@ -1,0 +1,10 @@
+{
+    "sdaafdas": {
+        "Email": "soare@email.com",
+        "Password": "WfEeZ$4PA4D*5"
+    },
+    "dadada": {
+        "Email": "soare@email.com",
+        "Password": "JE3T)PE(bsad#51W"
+    }
+}
