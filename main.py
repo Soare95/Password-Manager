@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import 
 from tkinter import messagebox
 from random import choice, shuffle, randint
 import pyperclip
